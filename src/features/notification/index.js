@@ -1,0 +1,1 @@
+export {default as notificationContainer } from './views/notification.container';
